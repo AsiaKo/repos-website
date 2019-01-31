@@ -28,4 +28,4 @@ ranges.deg.addEventListener('input', function(e) {
 });
 
 
-Resources
+// Resources

@@ -44,9 +44,6 @@ body {
   --duration: 1300ms;
 }
 
-
-
-
 /*General styles for structure and controls */
 body {
   height: 100vh;
@@ -80,4 +77,4 @@ label {
   font-family: system-ui, -apple-system, sans-serif;
 }
 
-Resources
+/*Resources*/
